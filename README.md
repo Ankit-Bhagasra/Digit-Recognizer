@@ -26,9 +26,9 @@
 - Then we train the model using .fit() method and also  specify an epoch and batch size when training the model.
 
 # Result
-  - Total params: 101,770
-  - Trainable params: 101,770
-  - Non-trainable params: 0
+   - Total params: 101,770
+   - Trainable params: 101,770
+   - Non-trainable params: 0
 
-- * Training Accuracy :- 100 %
-- * Testing Accuracy :-  97.75 %
+ * Training Accuracy :- 100 %
+ * Testing Accuracy :-  97.75 %
